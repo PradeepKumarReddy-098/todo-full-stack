@@ -1,0 +1,27 @@
+nav{
+    width:100%;
+    padding: 1rem;
+    background-color: blanchedalmond;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+.logout-btn{
+    margin-right: 2rem;
+    background-color: aqua;
+    padding:15px;
+    border:none;
+    border-radius: 1rem;
+}
+
+.link{
+    text-decoration: none;
+    color:#000;
+    font-family: 600;
+}
